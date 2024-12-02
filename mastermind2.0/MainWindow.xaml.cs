@@ -59,7 +59,7 @@ namespace mastermind2._0
 
             allhidden();
 
-            gamemenu();
+            gamemenu(); 
 
 
             //int aantalpogingen = pogingentexbox.
